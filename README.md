@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Python code that calculates the average of a list of numbers. The initial code lacks robust error handling for non-numeric input, which could cause a TypeError. The solution introduces improved error handling to make the function more resilient and less prone to unexpected crashes.
